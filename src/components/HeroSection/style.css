@@ -1,0 +1,29 @@
+.btn {
+  border: none;
+  background-color: #313131;
+  color: #ff4503;
+  width: 226px;
+  height: 71px;
+  margin: 20px;
+  padding: 20px 44px;
+  font-size: 16px;
+  position: relative;
+}
+.btn::before {
+  transition: all 0.2s ease-in-out;
+  content: '';
+  width: 0%;
+  height: 100%;
+  background-color: #ff4503;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn .btn-text {
+  color: #ff4503;
+  mix-blend-mode: difference;
+}
+.btn:hover::before {
+  background: #ff4503;
+  width: 100%;
+}

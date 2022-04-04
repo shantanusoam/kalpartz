@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "Air Brake & Wheel",
+    "image": "truck axle nutes",
+    "products": [
+      "Axle Nuts & Washers",
+      "Bearings",
+      "Brake Bolts & Rivets",
+      "Brake Drums",
+      "Brake Lining",
+      "Brake Shoe Hardware",
+      "Brake Spiders"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Air Spring & shocks​",
+    "image": "cabin air spring",
+    "products": [
+      "Double Convoluted",
+      "Triple Convoluted",
+      "Rolling Lobe",
+      "Cabin Air Springs",
+      "Height Contro"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "HAVAC",
+    "image": "ac compressor",
+    "products": [
+      " AC Accumulators and Driers",
+      "AC Copressor Clutches",
+      "AC CompressorComponents",
+      "Ac Compressors",
+      "Heater Cors",
+      "HeatersValves",
+      "Resistors",
+      "Regulators"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Body & Cabin",
+    "image": "truck bumper",
+    "products": [
+      "Collision",
+      "Repair",
+      "Hood & Door Parts",
+      "Fenders",
+      "Bumpers"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chrome & Stainless steel",
+    "image": "exhaust stack",
+    "products": [
+      " Axle & Lug Nut Covers",
+      "Bumpers",
+      "Door Hardware",
+      "Exhaust Stacks & Pipes"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lighting",
+    "image": "led images",
+    "products": [" Incandescent lights", "LED Lights"]
+  },
+  {
+    "id": 7,
+    "name": "Cooling",
+    "image": "spoke wheels",
+    "products": [
+      " Belts",
+      "CAC Hoses",
+      "Coolant Caps",
+      "Coolant Reservoirs",
+      "Coolant Sensors",
+      "Oil Seals",
+      "Shoe Box Kits",
+      "Slack Adjusters",
+      "Spoke Wheel",
+      "Unlined Brake Shoes",
+      "Wheel Studs & Nuts",
+      "Wheels"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Electrical",
+    "image": "clamps",
+    "products": ["Adapters", "Brackets", "Chrome Stacks", "Clamps"]
+  },
+  {
+    "id": 9,
+    "name": "Mobile Fluid Power",
+    "image": "hydraulic tanks",
+    "products": [
+      "Hose",
+      "Hose Crimper Equipment",
+      "Hose Wrap",
+      "o-Ring",
+      "Quick Couplings",
+      "Steel Adapters",
+      "Hyrdaulic Tanks",
+      "Hydraulic Pumps"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Exhaust",
+    "image": "Alternators",
+    "products": [
+      " Alternators",
+      "Battery Cables &",
+      "Accessories",
+      "Cable Ties",
+      "Circuit Breakers & Fuses",
+      "Dash Fans",
+      "Switches"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sterring",
+    "image": "Cross Tubes Assemblies",
+    "products": ["Alignment Wedges", "Cross Tubes Assemblies", "Drag Links"]
+  },
+  {
+    "id": 12,
+    "name": "Miscellaneous",
+    "image": "air-preparation-in-pneumatic-systems-Figure-1_-Example-of-an-FRL-unit-manufactured-by-Mindman-1",
+    "products": [
+      " Accessories",
+      "Air Preperation",
+      "Apparel",
+      "bags",
+      "Counter Mats",
+      "Counter Stools",
+      "Display Boards & Stands",
+      "Drinkware"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Suspension",
+    "image": "axle-seat-suitable-for-york-trailer-500x500",
+    "products": [
+      "Axle Seats",
+      "Beam Assemblies",
+      "Bolts & Bolt Kits",
+      "Brackets & Hangers",
+      "Bushings"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Trailers",
+    "image": "conspicuity-tape-500x500",
+    "products": ["Banners & Flags", "Cargo Control", "Conspicuity Tape"]
+  },
+  {
+    "id": 15,
+    "name": "Power Train",
+    "image": "Transmission",
+    "products": [" Engine", "Drivershaft", "Transmission", "Diffrential"]
+  },
+  {
+    "id": 16,
+    "name": "Poly and Rubber",
+    "image": "insulator-for-mack-truck-10qk372-500x500",
+    "products": [
+      " Hood Latches",
+      "Insulators",
+      "Mounts",
+      "Mud Flaps",
+      "Suspension Bushings &",
+      "Kits",
+      "Shifter Boots"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Leaf Springs",
+    "image": "Helper Springs",
+    "products": [
+      " Air Beams",
+      "Extra Leafs",
+      "Helper Springs",
+      "Multi-Leafs",
+      "Parabolic",
+      "Hardware"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tools and Equipement",
+    "image": "Pinion nut Sockets (1)",
+    "products": [
+      " Sockets",
+      "Impact Sockets",
+      "Pinion nut Sockets",
+      "Lubricants",
+      "Mechanic Wipes",
+      "Creepers"
+    ]
+  }
+]
