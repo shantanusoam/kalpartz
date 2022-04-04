@@ -1,6 +1,22 @@
 import Pulse from 'react-reveal/Pulse';
 import Alternators from './ProductImage/Alternators.jpg';
 import AirPreparation from './ProductImage/AirPreparation.png';
+import axleseat from './ProductImage/axleseat.jpg';
+import conspicuitytape from './ProductImage/conspicuitytape.jpg';
+import CrossTubesAssemblies from './ProductImage/CrossTubesAssemblies.png';
+import HelperSprings from './ProductImage/HelperSprings.jpg';
+import insulatorTruck from './ProductImage/insulatorTruck.jpg';
+import PinionnutSockets from './ProductImage/PinionnutSockets.jpg';
+import Transmission from './ProductImage/Transmission.jpg';
+import hydraulictanks from './ProductImage/hydraulictanks.jpg';
+import clamps from './ProductImage/clamps.jpg';
+import spokewheels from './ProductImage/spokewheels.jpg';
+import ledimages from './ProductImage/ledimages.jpg';
+import truckbumper from './ProductImage/truckbumper.jpg';
+import exhauststack from './ProductImage/exhauststack.jpg';
+import accompressor from './ProductImage/accompressor.png';
+import cabinairspring from './ProductImage/cabinairspring.jpg';
+import truckaxlenutes from './ProductImage/truckaxlenutes.jpg';
 import React, { useEffect } from 'react';
 import product from './product.json';
 
@@ -34,7 +50,7 @@ function Product() {
         {product.map((item, index) => (
           <Pulse key={item.id}>
             <Card className="flex flex-col items-center bg-white w-80 p-8">
-              <img src={Alternators} className=" w-32"></img>
+              <img src={item.image} className=" w-32"></img>
               <h4 className="text-2xl">{item.name}</h4>
               <div className="flex">
                 <div>

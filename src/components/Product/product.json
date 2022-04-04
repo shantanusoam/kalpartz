@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Air Brake & Wheel",
-    "image": "truck axle nutes",
+    "image": "truckaxlenutes",
     "products": [
       "Axle Nuts & Washers",
       "Bearings",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "name": "Air Spring & shocks​",
-    "image": "cabin air spring",
+    "image": "cabinairspring",
     "products": [
       "Double Convoluted",
       "Triple Convoluted",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "HAVAC",
-    "image": "ac compressor",
+    "image": "accompressor",
     "products": [
       " AC Accumulators and Driers",
       "AC Copressor Clutches",
@@ -43,7 +43,7 @@
   {
     "id": 4,
     "name": "Body & Cabin",
-    "image": "truck bumper",
+    "image": "truckbumper",
     "products": [
       "Collision",
       "Repair",
@@ -55,7 +55,7 @@
   {
     "id": 5,
     "name": "Chrome & Stainless steel",
-    "image": "exhaust stack",
+    "image": "exhauststack",
     "products": [
       " Axle & Lug Nut Covers",
       "Bumpers",
@@ -66,7 +66,7 @@
   {
     "id": 6,
     "name": "Lighting",
-    "image": "led images",
+    "image": "ledimages",
     "products": [" Incandescent lights", "LED Lights"]
   },
   {
@@ -126,7 +126,7 @@
   {
     "id": 11,
     "name": "Sterring",
-    "image": "Cross Tubes Assemblies",
+    "image": "CrossTubesAssemblies",
     "products": ["Alignment Wedges", "Cross Tubes Assemblies", "Drag Links"]
   },
   {
@@ -147,7 +147,7 @@
   {
     "id": 13,
     "name": "Suspension",
-    "image": "axle-seat-suitable-for-york-trailer-500x500",
+    "image": "axleseat",
     "products": [
       "Axle Seats",
       "Beam Assemblies",
@@ -159,7 +159,7 @@
   {
     "id": 14,
     "name": "Trailers",
-    "image": "conspicuity-tape-500x500",
+    "image": "conspicuitytape",
     "products": ["Banners & Flags", "Cargo Control", "Conspicuity Tape"]
   },
   {
@@ -171,7 +171,7 @@
   {
     "id": 16,
     "name": "Poly and Rubber",
-    "image": "insulator-for-mack-truck-10qk372-500x500",
+    "image": "insulatortruck",
     "products": [
       " Hood Latches",
       "Insulators",
@@ -185,7 +185,7 @@
   {
     "id": 17,
     "name": "Leaf Springs",
-    "image": "Helper Springs",
+    "image": "HelperSprings",
     "products": [
       " Air Beams",
       "Extra Leafs",
@@ -198,7 +198,7 @@
   {
     "id": 18,
     "name": "Tools and Equipement",
-    "image": "Pinion nut Sockets (1)",
+    "image": "PinionSockets",
     "products": [
       " Sockets",
       "Impact Sockets",

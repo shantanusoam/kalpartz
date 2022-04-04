@@ -291,7 +291,9 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <ContainerMain>
-          <h1 className="text-white drop-shadow-md">Kalpartz</h1>
+          <h1 className="text-white drop-shadow-md font-bold text-2xl">
+            Kalpartz
+          </h1>
           <HeroP>Parts That Your Truck Needs</HeroP>
           <a href="/Contact">
             <button class="btn">

@@ -32,7 +32,7 @@ display: flex;
 flex-direction: column;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 h1{
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: normal;
     color: #fff;
     letter-spacing: 0.3rem;
@@ -140,7 +140,7 @@ background: #232a34;
 }
 `;
 export const HeroContent = Styled.div`
-padding: 0px 20px 0px 20px;
+padding: 5rem 20px 0px 20px;
 z-index: 2;
 margin-left: 20vw;
 flex:1;
